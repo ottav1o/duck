@@ -3,7 +3,7 @@
 ### This project is for educational purposes only.
 
 # Compiling
-First of at all, you need to clone or download the source code.
+First of all, you need to clone or download the source code.
 
     git clone https://github.com/ottav1o/duck.git
 
