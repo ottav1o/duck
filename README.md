@@ -1,6 +1,5 @@
 # DUCK - cat but worse
 ## Warning: this isn't a serius project.
-### This project is for educational purposes only.
 
 # Compiling
 First of all, you need to clone or download the source code.
